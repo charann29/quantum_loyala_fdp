@@ -8,6 +8,12 @@
 
 ---
 
+### Workshop Materials
+- [Day 1 Presentation](http://loyola0.netlify.app/)
+- [Day 2 Presentation](https://loyola1.netlify.app/)
+- [Quantum Computing Notes (PDF)](https://drive.google.com/file/d/1MvAUtJ7jURzMa5qLPwOwmgTgf_1UnBHm/view?usp=sharing)
+
+
 ## 📚 Table of Contents
 
 - [Workshop Overview](#workshop-overview)
@@ -1506,10 +1512,6 @@ except Exception as e:
 - Shor's Algorithm (1994): Polynomial-time quantum algorithm for factoring
 - Grover's Algorithm (1996): Quantum search algorithm
 
-### Workshop Materials
-- [Day 1 Presentation](http://loyola0.netlify.app/)
-- [Day 2 Presentation](https://loyola1.netlify.app/)
-- [Quantum Computing Notes (PDF)](https://drive.google.com/file/d/1MvAUtJ7jURzMa5qLPwOwmgTgf_1UnBHm/view?usp=sharing)
 
 ---
 
