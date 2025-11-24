@@ -27,7 +27,14 @@ Installs Qiskit (IBM's quantum computing framework) and required visualization l
 
 ### The Code:
 ```python
-!pip install qiskit qiskit-aer qiskit-visualization matplotlib numpy -q
+# This will take 2-3 minutes - be patient!
+print("📦 Installing Qiskit and dependencies...")
+print("This will take about 2-3 minutes. Please wait...")
+
+!pip install qiskit qiskit-aer matplotlib numpy --quiet
+
+print("\n✅ Installation complete!")
+print("✅ Now run the next cell to import libraries")
 
 print("✅ Installation complete!")
 ```
